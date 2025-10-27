@@ -1,3 +1,1 @@
-{ "name":"wakama-oracle-publisher","private":true,"type":"module",
-  "scripts":{"start":"node src/publish.js"},
-  "dependencies":{"fs-extra":"^11.2.0","web3.storage":"^4.5.5"}}
+{"name":"wakama-oracle-publisher","private":true,"type":"module","scripts":{"start":"node src/publish.js"},"dependencies":{"@pinata/sdk":"^2.1.0","dotenv":"^17.2.3","fs-extra":"^11.2.0"}}
