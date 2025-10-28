@@ -1,1 +1,1 @@
-{"name":"wakama-oracle-publisher","private":true,"type":"module","scripts":{"start":"node src/publish.js"},"dependencies":{"@pinata/sdk":"^2.1.0","@solana/web3.js":"^1.98.4","dotenv":"^17.2.3","fast-csv":"^5.0.5","fs-extra":"^11.2.0"}}
+{"name":"wakama-oracle-publisher","private":true,"type":"module","scripts":{"start":"node src/publish.js","verify":"node src/verify.cjs"},"dependencies":{"@pinata/sdk":"^2.1.0","@solana/web3.js":"^1.98.4","dotenv":"^17.2.3","fast-csv":"^5.0.5","fs-extra":"^11.2.0"}}
